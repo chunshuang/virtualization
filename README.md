@@ -1,0 +1,2 @@
+# virtualization
+Virtualization Technology points.
